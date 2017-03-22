@@ -6,3 +6,5 @@ This is the second application for the [*Ruby on Rails Tutorial*](http://railstu
 by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 
 ### Tips I lerned from this app
+
+- Update Rails to 5.0.2 to avoid "key must be 32 bytes" error.
