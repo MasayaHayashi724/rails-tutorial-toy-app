@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial
 
-## toy_app
+## [toy_app](https://warm-shelf-93524.herokuapp.com/)
 
 This is the second application for the [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
 by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
